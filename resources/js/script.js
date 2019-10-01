@@ -69,7 +69,7 @@ $(document).ready(function () {
     /* mobile nav */
     $('.js--nav-icon').click(function() {
         const nav = $('.js--main-nav');
-        const icon = $('.js--nav-icon');
+        const icon = $('.js--nav-icon i');
 
 
         nav.slideToggle(200);
