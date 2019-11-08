@@ -168,4 +168,8 @@
     .contact-form {
         width: 100%;
     }
+
+    .social-icons {
+        text-align: center;
+    }
 }
